@@ -43,6 +43,22 @@ RentACar is a scalable car rental system that allows users to browse, book, and 
 - **Administrators**: Log in to access inventory and booking management features.
 
 ---
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home](images/home.png)
+
+### 🔐 Login Page
+![Login](images/login.png)
+
+### 📋 List Page
+![List](images/list.png)
+
+### 🚗 Rent Page
+![Rent](images/rent.png)
+
+### 📅 Bookings Page
+![Bookings](images/bookings.png)
 
 ## License
 
